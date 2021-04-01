@@ -1,0 +1,41 @@
+[{
+		"priceData": {
+			"id": "Television",
+			"asof": "2016-11-09 10:30",
+			"payload": {
+				"qual-1": 25,
+				"qual-2": 26
+			}
+		}
+	},
+	{
+		"priceData": {
+			"id": "car",
+			"asof": "2016-11-12 10:30",
+			"payload": {
+				"qual-1": 35,
+				"qual-2": 45
+			}
+		}
+	},
+	{
+		"priceData": {
+			"id": "Television",
+			"asof": "2016-12-10 10:30",
+			"payload": {
+				"qual-1": 95,
+				"qual-2": 96
+			}
+		}
+	},
+	{
+		"priceData": {
+			"id": "car",
+			"asof": "2016-05-12 10:30",
+			"payload": {
+				"qual-1": 80,
+				"qual-2": 75
+			}
+		}
+	}
+]
